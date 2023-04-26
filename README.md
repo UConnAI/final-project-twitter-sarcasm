@@ -16,3 +16,6 @@ use context clues in social media like hashtags to help detect sarcasm.
 We will expand upon an existing model in the hugging face library, then implement this gate
 tokenization technique to help analyze tweets and distinguish whether or not those represent
 sarcasm.
+
+#### Video Link
+[CSE4095FinalVideo](https://youtu.be/IP0ruA6X9ZU)

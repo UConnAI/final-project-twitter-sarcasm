@@ -3,7 +3,16 @@
 ## Final Project Repo
 
 
-Literature review goes in lit-review
-If you want to submit your project proposal as well, create proposal folder and add it there. 
+### Akul Shah & Jeffrey Duan 3/20/23
+#### Problem Statement:
+In our world today, we have a lot of information regarding people’s thoughts and feelings in real
+time through various social media platforms like instagram, twitter, and facebook. The question
+is how do we signify and group those thoughts into specific sentiments like joy, anger, fear and
+most difficult sarcasm. Our goal is to use the transformer architecture to create a sentiment
+analysis model that will take advantage of the gate tokenization technique that will allow us to
+use context clues in social media like hashtags to help detect sarcasm.
 
-Finally, change this readme and make it look decently nice. use something like https://readme.so to help you
+#### Implementation:
+We will expand upon an existing model in the hugging face library, then implement this gate
+tokenization technique to help analyze tweets and distinguish whether or not those represent
+sarcasm.
